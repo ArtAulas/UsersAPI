@@ -1,0 +1,8 @@
+/__pycache__
+controller/__pycache__
+models/__pycache__
+repository/__pycache__
+routes/__pycache__
+service/__pycache__
+venv
+API_DB.db
